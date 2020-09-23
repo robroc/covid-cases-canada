@@ -14,5 +14,6 @@ The analysis was done in Python 3.8 using the folowing libraries:
 - matplotlib
 - plotly
 - seaborn
+- requests
 
 Plotly charts may not display in GitHub. You may need to donwload the notebook and install the [plotly widget for Jupyter](https://plotly.com/python/getting-started/).
