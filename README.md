@@ -8,6 +8,8 @@ The code in this notebook was used fo this CBC News report:
 
 All the code, including links to the source data, are in the [Jupyter notebook](https://github.com/robroc/covid-cases-canada/blob/master/canada_covid_cases_analysis.ipynb).
 
+You can also see it on [nbviewer](https://nbviewer.jupyter.org/github/robroc/covid-cases-canada/blob/ae9b8708fea1d8fb207b3df1367625642bea4be4/canada_covid_cases_analysis.ipynb).
+
 The analysis was done in Python 3.8 using the folowing libraries:
 
 - pandas
