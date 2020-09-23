@@ -2,7 +2,7 @@
 
 An analysis by CBC News on detailed COVID-19 case data from the Canadian government
 
-The code in this notebook was used fo this CBC News report:
+The code in this notebook was used fo this report:
 
 [We looked at every confirmed COVID-19 case in Canada. Here's what we found](https://www.cbc.ca/news/canada/public-health-agency-of-canada-covid-19-statistics-1.5733069)
 
