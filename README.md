@@ -8,7 +8,7 @@ The code in this notebook was used for this report:
 
 All the code, including links to the source data, are in the [Jupyter notebook](https://github.com/robroc/covid-cases-canada/blob/master/canada_covid_cases_analysis.ipynb).
 
-You can also see it on [nbviewer](https://nbviewer.jupyter.org/github/robroc/covid-cases-canada/blob/bb3c498a9255f5b5999dc07dd029202e7d1728b9/canada_covid_cases_analysis.ipynb).
+You can also see it on [nbviewer](https://nbviewer.jupyter.org/github/robroc/covid-cases-canada/blob/f516d4422eeef0a3549e474f9f20cad80317b2b0/canada_covid_cases_analysis.ipynb).
 
 The analysis was done in Python 3.8 using the folowing libraries:
 
